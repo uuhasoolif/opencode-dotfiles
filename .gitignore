@@ -1,0 +1,4 @@
+npm-global/
+node_modules/
+*.pyc
+__pycache__/
