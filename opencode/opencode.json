@@ -1,0 +1,12 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "plugin": [
+    "oh-my-opencode",
+    "opencode-scheduler",
+    "opencode-pty",
+    "@hung319/opencode-hive"
+  ],
+  "github": {
+    "token": "${GITHUB_TOKEN}"
+  }
+}
